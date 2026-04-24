@@ -13,7 +13,7 @@ logger = logging.getLogger(**name**)
 # ===================== CONFIG =====================
 
 BOT_TOKEN = “8714552724:AAHp2Hq3X97KC54O4Af9Cb7faxYEs2tyAgo”  # @BotFather dan oling
-ADMIN_IDS = [123456789]  # Sizning Telegram ID ingiz (https://t.me/userinfobot dan oling)
+ADMIN_IDS = [1325754041]  # Sizning Telegram ID ingiz (https://t.me/userinfobot dan oling)
 DATA_FILE = “data.json”
 
 # ===================== STATES =====================
