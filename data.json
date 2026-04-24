@@ -1,0 +1,9 @@
+{
+  "categories": {
+    "mebellar": {"name": "🪑 Mebellar", "items": []},
+    "zina": {"name": "🪜 Zina", "items": []},
+    "parket": {"name": "🪵 Parket", "items": []},
+    "dekor": {"name": "🎨 Dekor", "items": []},
+    "patalok": {"name": "✨ Patalok (Shift)", "items": []}
+  }
+}
